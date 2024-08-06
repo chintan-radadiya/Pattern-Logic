@@ -6,7 +6,7 @@ public class number_changing_pyramid {
         int nol = 1;
         int num =1;
 
-        while(nol<=4){
+        while(nol<=n){
 
             for(int i=1;i <= nol; i++ , num++){
                 System.out.print(num + " ");
