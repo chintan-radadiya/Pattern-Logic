@@ -1,4 +1,4 @@
-public class left_tilted_square {
+public class left_tilted_square{
         public static void main(String[] args){
             
             int star =4;
