@@ -1,0 +1,1 @@
+<h1>Logical patterns all solved by me.</h1>
